@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace KarliCards_Gui
+namespace KarliCards
 {
     /// <summary>
     /// Interaction logic for About.xaml

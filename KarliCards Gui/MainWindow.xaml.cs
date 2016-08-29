@@ -24,10 +24,5 @@ namespace KarliCards
         {
             InitializeComponent();
         }
-
-        private void InitializeComponent()
-        {
-            //throw new NotImplementedException();
-        }
     }
 }
